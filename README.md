@@ -1,2 +1,2 @@
-# nicstestbed
+# NICS Testbed
 Research Project
